@@ -4,14 +4,14 @@ An interactive tool for learning how to calculate computer memory addresses. Spe
 ## Credits
 **Author:** Megan O'Neill
 
-**When:** 27 March 2018 - 8 May 2018
+**Originally When:** 27 March 2018 - 8 May 2018
 
 While taking classes for
 - Computer Organization
 - Computer Science II
 
 ## How to run
-The `memory-calculator.jar` file is an executable version of my Eclipse project. Download & run. (Source to come.)
+The `memory-calculator.jar` file is an executable version of my Eclipse project. Download & run.
 
 Initially looks like:
 ![Memory Calculator - Start running](mem-calc-startup.png)
