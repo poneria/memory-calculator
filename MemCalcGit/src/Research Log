@@ -1,0 +1,21 @@
+=====================
+Sources log
+====================
+
+Book: The Essentials of Computer Organization and Architecture, 4th edition (Lobur/Null).
+	- Tested with book problem Ch6 #2, which was the problem we used for the 
+		Memory Calculation Tool activity with MS Excel in class.
+
+Using lots of Javadoc from Oracle, including support articles like:
+	- https://docs.oracle.com/javase/tutorial/uiswing/painting/problems.html
+	- https://docs.oracle.com/javase/tutorial/uiswing/layout/box.html
+
+self-debating how to reverse a String:
+	- https://www.geeksforgeeks.org/reverse-a-string-in-java-5-different-ways/
+
+how to structure Javadoc:
+	- https://en.wikipedia.org/wiki/Javadoc
+	
+Using the in-class activity Color Slider to find Color values for background colors.
+
+UTF/ASCII code tables + System.out.println()
