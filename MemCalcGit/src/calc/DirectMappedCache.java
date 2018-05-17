@@ -56,11 +56,11 @@ public class DirectMappedCache extends Address {
 		int tagLength = binStr.length() - blockLength - offsetLength;
 		
 		// slice off tag field
-		String tagSlice = binStr.substring(0, (tagLength-1));
+		String tagSlice = binStr.substring(0, tagLength);
 		setTagField(tagSlice);
 		
 		// slice off block field
-		String blockSlice = binStr.substring(tagLength, (tagLength + blockLength - 1));
+		String blockSlice = binStr.substring(tagLength, (tagLength + blockLength));
 		setBlockField(blockSlice);
 		
 		// slice off offset field
